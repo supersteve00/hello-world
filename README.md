@@ -1,2 +1,7 @@
 # hello-world
-just another repo
+
+Sup
+
+Supersteve here.
+
+I like coconuts and gravy. This is my first repo.
